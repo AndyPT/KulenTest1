@@ -2,4 +2,6 @@ Some HTML here
 
 <?php
 
-Print("hello");
+Print("hello world");
+
+$a = 123;
